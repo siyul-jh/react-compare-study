@@ -1,8 +1,0 @@
-{
-  "short_name": "React Compare",
-  "name": "Create React App(CRA) Base React Compare Sample",
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
