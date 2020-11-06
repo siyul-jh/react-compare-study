@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-compare-study/static/css/main.1f268084.chunk.css",
+    "main.js": "/react-compare-study/static/js/main.5b234bbe.chunk.js",
+    "main.js.map": "/react-compare-study/static/js/main.5b234bbe.chunk.js.map",
+    "runtime-main.js": "/react-compare-study/static/js/runtime-main.b3dc41c8.js",
+    "runtime-main.js.map": "/react-compare-study/static/js/runtime-main.b3dc41c8.js.map",
+    "static/js/2.5ab16cf1.chunk.js": "/react-compare-study/static/js/2.5ab16cf1.chunk.js",
+    "static/js/2.5ab16cf1.chunk.js.map": "/react-compare-study/static/js/2.5ab16cf1.chunk.js.map",
+    "index.html": "/react-compare-study/index.html",
+    "static/css/main.1f268084.chunk.css.map": "/react-compare-study/static/css/main.1f268084.chunk.css.map",
+    "static/js/2.5ab16cf1.chunk.js.LICENSE.txt": "/react-compare-study/static/js/2.5ab16cf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3dc41c8.js",
+    "static/js/2.5ab16cf1.chunk.js",
+    "static/css/main.1f268084.chunk.css",
+    "static/js/main.5b234bbe.chunk.js"
+  ]
+}
