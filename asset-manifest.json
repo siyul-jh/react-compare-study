@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-compare-study/static/css/main.1f268084.chunk.css",
-    "main.js": "/react-compare-study/static/js/main.af318403.chunk.js",
-    "main.js.map": "/react-compare-study/static/js/main.af318403.chunk.js.map",
+    "main.js": "/react-compare-study/static/js/main.e6e9271b.chunk.js",
+    "main.js.map": "/react-compare-study/static/js/main.e6e9271b.chunk.js.map",
     "runtime-main.js": "/react-compare-study/static/js/runtime-main.b3dc41c8.js",
     "runtime-main.js.map": "/react-compare-study/static/js/runtime-main.b3dc41c8.js.map",
     "static/js/2.67f547fc.chunk.js": "/react-compare-study/static/js/2.67f547fc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.b3dc41c8.js",
     "static/js/2.67f547fc.chunk.js",
     "static/css/main.1f268084.chunk.css",
-    "static/js/main.af318403.chunk.js"
+    "static/js/main.e6e9271b.chunk.js"
   ]
 }
